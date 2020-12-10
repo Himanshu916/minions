@@ -1,0 +1,49 @@
+.upperHeader
+{
+    width:100%;
+    height:10vh;
+    margin:0;
+    text-align: center;
+    padding-top: 1rem;
+    font-size:2rem;
+
+}
+body{
+    margin:0;
+}
+
+.headMinion
+{
+    background-color: rgb(236, 236, 22);
+}
+
+#inputText
+{
+    width:70%;
+    margin:0 auto;
+    margin-top:3rem;
+    margin-bottom:3rem;
+    display:block;
+    padding:.5rem;
+}
+.btn-translate
+{
+    
+    background-color:rgb(235, 227, 212);
+    border:1px solid rgb(236, 236, 22);
+    padding:.5rem;
+    /* margin-top:.5rem; */
+    margin-bottom:2rem;
+    margin-left:5rem;
+    width:10rem;
+
+}
+.outputText
+{
+    width:80%;
+    height:30vh;
+    background-color: rgb(236, 236, 22);
+    margin:0 auto;
+    margin-top:1rem;
+    padding:.5rem;
+}
